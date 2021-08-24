@@ -13,7 +13,7 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
  
   #### OBJETIVOS ESPECÍFICOS
 
-* Apliacra teoria de inductancia y reosolver los ejercicios correspondientes
+* Aplicar teoria de inductancia e inductores para proceder a reosolver los ejercicios correspondientes
 
 * ----------------------------------
 
