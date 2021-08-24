@@ -48,9 +48,13 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/ejer%201%20-%2015/fig/fig%2013%20-%2029.jpg)
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%201.jpg)
 
-     3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01s?
+     3.- El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01s?
+
+        Resolucion:
 
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%203.jpg)
        
@@ -60,16 +64,22 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/ejer%201%20-%2015/fig/fig%2013%20-%2030.jpg)
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%205.jpg)
         
       7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes? 
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%207.jpg)
 
       9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l=20 cm, N=200 vueltas, y d=2 cm. 
 
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/ejer%201%20-%2015/fig/fig%2013%20-%2031.jpg)
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%209.jpg)
 
       11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI≅Ha la. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a Nϕ. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es:
@@ -80,6 +90,8 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
         
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/ejer%201%20-%2015/fig/11%20formula.jpg)
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2011.jpg)
 
        ** 13-4 Cálculo del voltaje inducido
@@ -88,6 +100,8 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/ejer%201%20-%2015/fig/fig%2013%20-%2034.jpg)
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2013.jpg)
 
        15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
@@ -96,14 +110,20 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
        a. ¿Qué valor tiene L? 
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2015%20a.jpg)
 
        b. Determine la forma de onda de la corriente y grafíquela. 
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2015%20b.jpg)
         
        c. ¿Cuál es la corriente en t 10 s? 
 
+        Resolucion:
+        
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2015%20c.jpg)
        
        ** 13-5 Inductancias en serie y en paralelo
