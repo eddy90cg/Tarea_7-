@@ -95,7 +95,7 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
         
         ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/res%2013%20-%2011.jpg)
 
-       ** 13-4 Cálculo del voltaje inducido
+       #### 13-4 Cálculo del voltaje inducido
        
        13.- La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
 
