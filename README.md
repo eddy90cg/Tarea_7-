@@ -15,9 +15,9 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
 * Aplicar teoria de inductancia e inductores para proceder a reosolver los ejercicios correspondientes
 
-* ----------------------------------
+* Aplicar la teoría correspondiente para el desarrollo de los ejercicios.
 
-* --------------------------------
+* Identificar el funcionamiento de cada tema con el fin de comprender y optimizar el dessarrollo de cada uno de los ejercicios propuestos.
 
 * ------------------------------
 
@@ -288,8 +288,8 @@ e.
  # 5. CONCLUSIONES
  
  * Comprobamos que al aplicar teorema de inductancia ne un circuito podemos encontrar los demas valores correspondientes yu observar que genera un campo maganetico alrededor del inductor.
-  -------------------------------------
-  ------------------------------------
+ * Después del análisis de cada uno de los temas, se pudoo obtener nuevos conocimientos acerca de la inductancia, trnasistores inductivos, transistores desenergizantes entre otros.
+ * Finalmente con la implementación de las fórmulas correspondientes se pudo completar los ejercicios planteados, así como también, se mejoró la capacidad de resolución y se pudo comprender de mejor manera la teoría correspondiente a los temas investigados y analizados.
   ---------------------------------
   -----------------------------------
   
