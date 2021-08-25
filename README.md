@@ -142,9 +142,9 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
        ![13 33](https://user-images.githubusercontent.com/84453557/130716562-8b67d10c-9715-4d27-a326-a7275b8aa35c.png)
 
       
-       35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+       35.- En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
        
-     ![13 34](https://user-images.githubusercontent.com/84453557/130716563-4a611a75-1788-4aad-a964-85454c01c3df.png)
+       ![13 34](https://user-images.githubusercontent.com/84453557/130716563-4a611a75-1788-4aad-a964-85454c01c3df.png)
      
 La trayectoria entre L2 y L1 esta abierta
        
@@ -158,9 +158,9 @@ La trayectoria entre L2 y L1 esta abierta
       
       b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra
 
-![14 1](https://user-images.githubusercontent.com/84453557/130716636-00a98edb-4592-4ec9-938b-7e29a625026e.png)
+     ![14 1](https://user-images.githubusercontent.com/84453557/130716636-00a98edb-4592-4ec9-938b-7e29a625026e.png)
 
-![14 1 1](https://user-images.githubusercontent.com/84453557/130716644-2a7ffbe4-3690-4226-af01-a9bc207fdaa4.png)
+     ![14 1 1](https://user-images.githubusercontent.com/84453557/130716644-2a7ffbe4-3690-4226-af01-a9bc207fdaa4.png)
 
 
    3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
@@ -180,6 +180,8 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 ![14 5](https://user-images.githubusercontent.com/84453557/130716708-c0135f5a-62d3-44aa-b5cd-5352339689b4.png)
 
+e. 
+![14 5 1](https://user-images.githubusercontent.com/84453557/130719270-b0c46eaf-3338-4339-bb5f-4301b2e0cd07.png)
 
       
    7. Repita el problema 5 para el circuito de la figura 14-41 con L=4 H.
@@ -189,18 +191,22 @@ c. Determine las ecuaciones para iL y vL.
 d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5=t. 
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
       
-   ![14 7](https://user-images.githubusercontent.com/84453557/130716717-a9f5c06b-26f3-4e67-9515-abc0d372e9a3.png)
+![14 7](https://user-images.githubusercontent.com/84453557/130716717-a9f5c06b-26f3-4e67-9515-abc0d372e9a3.png)
+
+e.
+
+![14 7 1](https://user-images.githubusercontent.com/84453557/130719278-fa11013c-e6ba-4d46-82c6-ef23625055cf.png)
 
       
    9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t =3.4 ms.
       
-  ![14 9](https://user-images.githubusercontent.com/84453557/130716754-2126e902-da57-49c2-9ffd-7859c2a2e6c5.png)
+![14 9](https://user-images.githubusercontent.com/84453557/130716754-2126e902-da57-49c2-9ffd-7859c2a2e6c5.png)
   
       
    11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.   
       
       
-   ![14 11](https://user-images.githubusercontent.com/84453557/130716763-c2a386f3-22e3-4082-bbe1-2a3e3caf27a2.png)
+![14 11](https://user-images.githubusercontent.com/84453557/130716763-c2a386f3-22e3-4082-bbe1-2a3e3caf27a2.png)
 
       
       
