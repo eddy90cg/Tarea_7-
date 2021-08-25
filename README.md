@@ -137,7 +137,7 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\frac{1}{L_T}=\frac{1}{L_1}&plus;\frac{1}{L_2}&plus;\frac{1}{L_3}&plus;\frac{1}{L_4}\\&space;\\&space;&\frac{1}{L_T}=\frac{1}{12mH}&plus;\frac{1}{14mH}&plus;\frac{1}{22mH}&plus;\frac{1}{36mH}\\&space;\\&space;&L_T=4.39mH&space;\end{align*}" title="\begin{align*} &\frac{1}{L_T}=\frac{1}{L_1}+\frac{1}{L_2}+\frac{1}{L_3}+\frac{1}{L_4}\\ \\ &\frac{1}{L_T}=\frac{1}{12mH}+\frac{1}{14mH}+\frac{1}{22mH}+\frac{1}{36mH}\\ \\ &L_T=4.39mH \end{align*}" />
 
-21. Determine L_T para los circuitos de la figura 13-37
+21. Determine <img src="https://latex.codecogs.com/svg.latex?L_T" title="L_T" /> para los circuitos de la figura 13-37
 
 ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/Tarea%207%20-%20Graficas/Fig.13-37a.png)
 
@@ -160,11 +160,11 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&L_T=\frac{1}{L_1}&plus;\left(\frac{1}{L_2&plus;\left(\frac{1}{L_3}&plus;\frac{1}{&plus;L_4}\right)}\right)\\&space;\\&space;&L_T=\frac{1}{6mH}&plus;\left(\frac{1}{0.6mH&plus;\left(\frac{1}{19mH}&plus;\frac{1}{28.5mH}\right)}\right)\\&space;\\&space;&L_T=\frac{1}{6mH}&plus;\frac{1}{12mH}\\&space;\\&space;&L_T=4mH\\&space;\\&space;\end{align*}" title="\begin{align*} &L_T=\frac{1}{L_1}+\left(\frac{1}{L_2+\left(\frac{1}{L_3}+\frac{1}{+L_4}\right)}\right)\\ \\ &L_T=\frac{1}{6mH}+\left(\frac{1}{0.6mH+\left(\frac{1}{19mH}+\frac{1}{28.5mH}\right)}\right)\\ \\ &L_T=\frac{1}{6mH}+\frac{1}{12mH}\\ \\ &L_T=4mH\\ \\ \end{align*}" />
 
 
-23. Una inductancia de 30 uH está conectada en serie con una inductancia de 60 uH, y una inductancia de 10 uH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene L_T?
+23. Una inductancia de <img src="https://latex.codecogs.com/svg.latex?30\mu&space;H" title="30\mu H" /> está conectada en serie con una inductancia de <img src="https://latex.codecogs.com/svg.latex?60\mu&space;H" title="60\mu H" /> , y una inductancia de <img src="https://latex.codecogs.com/svg.latex?10\mu&space;H" title="10\mu H" /> está conectada en paralelo con la combinación en serie. ¿Qué valor tiene <img src="https://latex.codecogs.com/svg.latex?L_T" title="L_T" /> ?
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&L_T=\left(\frac{1}{R_1&plus;R_2}\right)&plus;\frac{1}{R_3}\\&space;&L_T=\left(\frac{1}{30\mu&space;H&plus;60\mu&space;H}\right)&plus;\frac{1}{10\mu&space;H}\\&space;&L_T=\frac{1}{90\mu&space;H}&plus;\frac{1}{10\mu&space;H}\\&space;&L_T=9\mu&space;H&space;\end{align*}" title="\begin{align*} &L_T=\left(\frac{1}{R_1+R_2}\right)+\frac{1}{R_3}\\ &L_T=\left(\frac{1}{30\mu H+60\mu H}\right)+\frac{1}{10\mu H}\\ &L_T=\frac{1}{90\mu H}+\frac{1}{10\mu H}\\ &L_T=9\mu H \end{align*}" />
 
-25. Para los circuitos de la figura 13-40, determine L_3 y L_4
+25. Para los circuitos de la figura 13-40, determine <img src="https://latex.codecogs.com/svg.latex?L_3" title="L_3" /> y <img src="https://latex.codecogs.com/svg.latex?L_4" title="L_4" />
 
 ![](https://github.com/eddy90cg/Tarea_7-/blob/main/Anexos/Tarea%207%20-%20Graficas/Fig.13-40a.png)
 
@@ -174,11 +174,11 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{Encontramos&space;la&space;resistencia&space;equivalente&space;entre&space;$L_3$&space;y&space;$L_4$}\\&space;&L_{eq1}=\frac{L_3\times&space;L_4}{L_3&plus;L_4}=\frac{L_3\times&space;4L_3}{L_3&plus;4L_3}=\frac{4(L_3)^{\cancel{2}}}{5\cancel{L_3}}=0.8L_3\\&space;&\textrm{Calculamos&space;la&space;inductancia&space;en&space;paralelo&space;con&space;$27H$&space;y&space;$18H$&space;}\\&space;&L_{eq2}=\frac{27H\times18H}{27H&plus;18H}=10.8H\\&space;&\textrm{Finalmente&space;encontramos&space;$L_3$&space;con&space;$L_T$&space;}\\&space;&L_T=L_{eq2}&plus;L_{eq1}&space;\quad&space;\quad&space;\Longrightarrow&space;\quad&space;\quad&space;12.4=10.8&plus;0.8L_3\\&space;&L_3=2H&space;\quad&space;\quad&space;L_4=4L_3=4(2H)=8H\\&space;\end{align*}" title="\begin{align*} &\textrm{Encontramos la resistencia equivalente entre $L_3$ y $L_4$}\\ &L_{eq1}=\frac{L_3\times L_4}{L_3+L_4}=\frac{L_3\times 4L_3}{L_3+4L_3}=\frac{4(L_3)^{\cancel{2}}}{5\cancel{L_3}}=0.8L_3\\ &\textrm{Calculamos la inductancia en paralelo con $27H$ y $18H$ }\\ &L_{eq2}=\frac{27H\times18H}{27H+18H}=10.8H\\ &\textrm{Finalmente encontramos $L_3$ con $L_T$ }\\ &L_T=L_{eq2}+L_{eq1} \quad \quad \Longrightarrow \quad \quad 12.4=10.8+0.8L_3\\ &L_3=2H \quad \quad L_4=4L_3=4(2H)=8H\\ \end{align*}" />
 
-27. Dos inductancias de 6 y 4 H están conectadas en paralelo. Después de que se agrega una tercera inductancia, L_T = 4 H. ¿Cuál es el valor de la tercera inductancia y como está conectada?
+27. Dos inductancias de 6 H y 4 H están conectadas en paralelo. Después de que se agrega una tercera inductancia, <img src="https://latex.codecogs.com/svg.latex?L_T=4H" title="L_T=4H" /> . ¿Cuál es el valor de la tercera inductancia y como está conectada?
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{Encontramos&space;la&space;inductancia&space;equivalente&space;entre&space;$6H$&space;y&space;$4H$}\\&space;&L_{eq}=\frac{6H\times4H}{6H&plus;4H}=2.4H\\&space;&\textrm{Finalmente&space;encontramos&space;$L_3$&space;con&space;$L_T$&space;}\\&space;&L_T=L_{eq}&plus;L_3\\&space;&4H=2.4H&plus;L_3\\&space;&L_3=1.6H\\&space;&\textrm{$L_3$&space;estar\'a&space;conectada&space;en&space;serie&space;y&space;tendr\'a&space;un&space;valor&space;de&space;1.6H}&space;\end{align*}" title="\begin{align*} &\textrm{Encontramos la inductancia equivalente entre $6H$ y $4H$}\\ &L_{eq}=\frac{6H\times4H}{6H+4H}=2.4H\\ &\textrm{Finalmente encontramos $L_3$ con $L_T$ }\\ &L_T=L_{eq}+L_3\\ &4H=2.4H+L_3\\ &L_3=1.6H\\ &\textrm{$L_3$ estar\'a conectada en serie y tendr\'a un valor de 1.6H} \end{align*}" />
 
-29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si L_T = 6 H, ¿como están conectados los inductores?
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si <img src="https://latex.codecogs.com/svg.latex?L_T=6H" title="L_T=6H" /> , ¿como están conectados los inductores?
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;&\textrm{Encontramos&space;la&space;inductancia&space;equivalente&space;entre&space;$8H$&space;y&space;$12H$}\\&space;&L_{eq}=\frac{8H\times12H}{8H&plus;12H}=4.8H\\&space;&\textrm{Finalmente&space;encontramos&space;$L_T$&space;}\\&space;&L_T=L_{eq}&plus;1.2H\\&space;&L_T=4.8&plus;1.2H\\&space;&L_T=6H\\&space;&\textrm{$8H$&space;y&space;$12H$&space;estar\'an&space;conectados&space;en&space;paralelo&space;y&space;$1.2H$&space;estar\'a&space;conectada&space;en&space;serie}&space;\end{align*}" title="\begin{align*} &\textrm{Encontramos la inductancia equivalente entre $8H$ y $12H$}\\ &L_{eq}=\frac{8H\times12H}{8H+12H}=4.8H\\ &\textrm{Finalmente encontramos $L_T$ }\\ &L_T=L_{eq}+1.2H\\ &L_T=4.8+1.2H\\ &L_T=6H\\ &\textrm{$8H$ y $12H$ estar\'an conectados en paralelo y $1.2H$ estar\'a conectada en serie} \end{align*}" />
 
