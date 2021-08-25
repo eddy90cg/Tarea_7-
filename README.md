@@ -33,7 +33,8 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
   ## Transistores inductivos
 
-   ![]()
+![mentefacto 14](https://user-images.githubusercontent.com/84453557/130731178-cae4a485-bd6a-42ae-a897-5e4e7493b64e.png)
+
     
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
