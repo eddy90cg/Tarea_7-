@@ -208,32 +208,24 @@ e.
       
       
 ![14 11](https://user-images.githubusercontent.com/84453557/130716763-c2a386f3-22e3-4082-bbe1-2a3e3caf27a2.png)
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
       
       ** 14-4 Transitorios desenergizantes
       
-      14.-
-      
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      -------------------------------
-      
+   13. Para la figura 14-1(b), si v_L=40e^(-2000t) V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+   
+   15. Para la figura 14-43, R_1=20 Ω,R_2=230 Ω y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.
+
+   17. Dado v_L=-2700 Ve^(-100t). Use la curva universal de la constante de tiempo para determinar v_L en t=20 ms.
+   
+   19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R_1  y R_2.
+
+   21. Para la bobina de la figura 14-45 R_l=1.7Ω y L=150 mH. Determine la corriente de la bobina en t=18.4 ms.
+
+   23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor. 
+   
+   25. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47. 
+
+   27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida  se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
  # 4. VIDEO
 
   * link del video
