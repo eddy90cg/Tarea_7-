@@ -9,7 +9,7 @@
 Este informe se trata sobre la resolucion de problemas basados en inductancia, inductores, transistores indutivos, y como se comportanta el inductor en un circuito cerrado y deferencia con uno abierto, claculos para saber ocmo se manejan en un circuitos los dipositivos mencionados.  
 
  #### OBJETIVO GENERAL
-* Desarrollar los ejercicios de induccion y asi observar su compartamiento o praton para continuar con la palicacion de la inductancia e inductores en un circuito                                                                                                                                                                                 
+* Desarrollar los ejercicios de inducción y asi observar su compartamiento o praton para continuar con la palicacion de la inductancia e inductores en un circuito                                                                                                                                                                                 
  
   #### OBJETIVOS ESPECÍFICOS
 
@@ -19,7 +19,7 @@ Este informe se trata sobre la resolucion de problemas basados en inductancia, i
 
 * Identificar el funcionamiento de cada tema con el fin de comprender y optimizar el dessarrollo de cada uno de los ejercicios propuestos.
 
-* ------------------------------
+* Analizar y comprender las fórmulas presentadas para resolver circuitos en donde se encuentren presentes inductores.
 
 # 2. MARCO TEÓRICO
 
@@ -346,15 +346,17 @@ e.
 
  # 4. VIDEO
 
-  * link del video
+  https://www.youtube.com/watch?v=wJGzW1XR0jc&t=152s
   
  # 5. CONCLUSIONES
  
  * Comprobamos que al aplicar teorema de inductancia ne un circuito podemos encontrar los demas valores correspondientes yu observar que genera un campo maganetico alrededor del inductor.
+ 
  * Después del análisis de cada uno de los temas, se pudoo obtener nuevos conocimientos acerca de la inductancia, trnasistores inductivos, transistores desenergizantes entre otros.
+ 
  * Finalmente con la implementación de las fórmulas correspondientes se pudo completar los ejercicios planteados, así como también, se mejoró la capacidad de resolución y se pudo comprender de mejor manera la teoría correspondiente a los temas investigados y analizados.
-  ---------------------------------
-  -----------------------------------
+ 
+* Analizamos las fórmulas detalladas en el texto, entendiendo la manera de aplicarlas en ejercicios que impliquen inductancias.  
   
  # 6. BIBLIOGRAFÍA
 
@@ -362,11 +364,6 @@ e.
 * Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. 
 
 * Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
-
-* -------------------------------------------------
-
-* --------------------------------------------------
-
 
 RUBRICA
 
