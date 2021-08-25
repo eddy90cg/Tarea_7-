@@ -209,8 +209,6 @@ e.
       
 ![14 11](https://user-images.githubusercontent.com/84453557/130716763-c2a386f3-22e3-4082-bbe1-2a3e3caf27a2.png)
       
-      ** 14-4 Transitorios desenergizantes
-      
    13. Para la figura 14-1(b), si v_L=40e^(-2000t) V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
    
    15. Para la figura 14-43, R_1=20 Ω,R_2=230 Ω y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.
